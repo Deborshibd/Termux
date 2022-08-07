@@ -7,7 +7,7 @@ echo "" #blank
 echo "" #blank
 echo "" #blank
 #logo of this script
-figlet "DroidHacking"
+figlet "Technical Bangla"
 echo "---by Deborshi---"
 echo "---Creator: Deborshi Mallick--"
 echo "" #blank
